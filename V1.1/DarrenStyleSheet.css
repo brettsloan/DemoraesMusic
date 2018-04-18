@@ -1,0 +1,48 @@
+.holder {
+  border: 1px solid white;
+  margin: 0;
+  padding: 0;
+}
+.header {
+  height: 9.4em;
+  position: fixed;
+  width: 98%;
+  float: right;
+  background-size: cover;
+  background-color: #252625;
+}
+.header h2 {
+  margin: 0;
+  font-family: 'Comfortaa', cursive;
+  float: right;
+  clear: both;
+  color: #8e8e8e;
+  font-weight: 100;
+}
+
+.headerLeft {
+  margin-top: 9.3em;
+  background: #252625;
+}
+.headerLeft ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.headerLeft li {
+  display: inline;
+  padding-left: 4em;
+  font-size: 28px;
+}
+.headerLeft a {
+  font-family: 'Comfortaa', cursive;
+  color: #6b8260;
+  text-decoration: none;
+}
+.headerLeft a:hover {
+  background-color: #8e8e8e;
+}
+.wrapper {
+  top: 0;
+  margin-top: 11em;
+}
